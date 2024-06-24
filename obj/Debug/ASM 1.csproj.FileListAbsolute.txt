@@ -1,0 +1,7 @@
+D:\bai tap C#\ASM 1\ASM 1\bin\Debug\ASM 1.exe.config
+D:\bai tap C#\ASM 1\ASM 1\bin\Debug\ASM 1.exe
+D:\bai tap C#\ASM 1\ASM 1\bin\Debug\ASM 1.pdb
+D:\bai tap C#\ASM 1\ASM 1\obj\Debug\ASM 1.csproj.AssemblyReference.cache
+D:\bai tap C#\ASM 1\ASM 1\obj\Debug\ASM 1.csproj.CoreCompileInputs.cache
+D:\bai tap C#\ASM 1\ASM 1\obj\Debug\ASM 1.exe
+D:\bai tap C#\ASM 1\ASM 1\obj\Debug\ASM 1.pdb
